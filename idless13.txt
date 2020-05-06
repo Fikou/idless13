@@ -1,0 +1,7 @@
+Let's make a game!
+    name:Idle SS13
+    by:Fikou
+    desc:This is an idle game based on Space Station 13.
+    created:6/5/2020
+    updated:6/5/2020
+    version:1
